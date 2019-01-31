@@ -1,2 +1,2 @@
 # mergeSort
-MergeSort algorithm with Python
+MergeSort algorithm with Python using numpy
